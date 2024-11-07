@@ -9,8 +9,15 @@
     margin: auto;
 }
 .card{
-    height: 800px;
+    height:700px;
+}
+.card-body{
+    height: 60%;
 }
 .card-img-top{
-    height: 200px;
+    height: 40%;
+}
+.card-text{
+    height: 130px;
+    overflow: scroll;
 }
