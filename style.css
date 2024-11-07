@@ -5,6 +5,12 @@
 }
 .sectiontwo{
     padding-top: 10px;
-    width: 1300px;
+    max-width: 1300px;
     margin: auto;
+}
+.card{
+    height: 800px;
+}
+.card-img-top{
+    height: 200px;
 }
